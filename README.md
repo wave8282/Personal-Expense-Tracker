@@ -1,2 +1,37 @@
-# Personal-Expense-Tracker
-Python Personal Expense Management Program
+
+# Personal Expense Tracker 💰
+
+Python으로 제작한 개인 수입 및 지출 관리 프로그램입니다.
+
+## 주요 기능
+
+- 수입 및 지출 내역 등록
+- 거래 내역 조회
+- 전체 수입 및 지출 합계 확인
+- 현재 잔액 계산
+- 월별 수입 및 지출 통계
+- 거래 내역 삭제
+- JSON 파일 데이터 저장
+
+## 개발 환경
+
+- Python 3
+- JSON
+
+## 실행 방법
+
+```bash
+python main.py
+```
+
+## 데이터 관리
+
+프로그램 실행 시 expense_data.json 파일이 자동 생성됩니다.
+
+개인 거래 내역은 로컬 환경에 저장됩니다.
+
+## 프로젝트 목적
+
+Python 기초 문법과 파일 입출력을 활용하여
+개인의 수입 및 지출을 관리하고
+월별 통계 기능을 구현했습니다.
